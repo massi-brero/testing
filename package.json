@@ -1,0 +1,13 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "author": "massi.brero@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^4.1.0",
+    "prettier": "^1.19.1"
+  }
+}
