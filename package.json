@@ -6,6 +6,10 @@
   "author": "massi.brero@gmail.com",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
   "devDependencies": {
     "cypress": "^4.1.0",
     "prettier": "^1.19.1"
