@@ -11,6 +11,7 @@ describe('Device Tests', () => {
 		cy.viewport(1280, 720)
 		cy.visit('http://books.toscrape.com/')
 		cy.wait(3000)
+		cy.wai
 	})
 
 	it('ipad', () => {
